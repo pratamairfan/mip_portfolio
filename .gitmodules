@@ -1,0 +1,3 @@
+[submodule "sanity-portfolio"]
+	path = sanity-portfolio
+	url = https://github.com/pratamairfan/sanity-portfolio.git
